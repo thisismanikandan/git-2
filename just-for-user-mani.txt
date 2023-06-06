@@ -1,0 +1,1 @@
+This file should be visible just for user-mani branch and not to main
